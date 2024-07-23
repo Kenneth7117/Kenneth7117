@@ -39,8 +39,8 @@ Currently diving deeper into:
 
 Check out my GitHub repository for a collection of my cloud security projects and contributions:
 
-- **AWS Projects:** [GitHub Link]([https://github.com/username/aws-security-best-practices](https://github.com/Kenneth7117/AWS_Projects))
-- **Python Automations:** [GitHub Link]([https://github.com/username/terraform-aws-security-modules](https://github.com/Kenneth7117/Python))
+- **AWS Projects:** [GitHub Link](https://github.com/Kenneth7117/AWS_Projects)
+- **Python Automations:** [GitHub Link](https://github.com/Kenneth7117/Python)
 - **OWASP Web Goat:** [GitHub Link](https://github.com/username/ci-cd-security-pipelines)
 
 ## 🎯 Goals
