@@ -10,48 +10,46 @@ I'm a passionate Security Engineer specializing in Cloud Security. With a deep u
 
 ## 💼 Professional Background
 
-- **Role:** Cloud Security Engineer
-- **Specialization:** AWS Security, Cloud Infrastructure, and Compliance
-- **Experience:** Over [X] years of experience in cybersecurity with a focus on cloud security solutions.
+- **Role:** Security Engineer
+- **Specialization:** AWS Security, Cloud Infrastructure, DLP, Vulnerability Management and Compliance
+- **Experience:** Over 4 years of experience in cybersecurity with a focus on cloud security, DLP solutions.
 
 ## 🔧 Skills & Expertise
 
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Security Tools:** AWS Security Hub, GuardDuty, IAM, KMS, CloudTrail
-- **Compliance & Standards:** NIST, ISO 27001, SOC 2, GDPR
-- **Programming Languages:** Python, Bash, Terraform
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Cloud Platforms:** AWS
+- **Security Tools:** AWS Security Hub, GuardDuty, IAM, KMS, CloudTrail, Qualys, Proofpoint, Symantec DLP, Palo Alto Aperture, Microsoft Purview, Tanium.
+- **Programming Languages:** Python
 
 ## 🌱 What I'm Learning
 
 Currently diving deeper into:
 
-- Advanced Kubernetes Security
-- Zero Trust Architecture
-- AI/ML in Cybersecurity
+- Kubernetes Security
+- Cloud Security Architecture
+- OWASP vulnerabilities
+- Application Security
 
 ## 🏆 Certifications
 
 - AWS Certified Security – Specialty
-- Certified Information Systems Security Professional (CISSP)
-- Certified Cloud Security Professional (CCSP)
-- Certified Ethical Hacker (CEH)
+- AWS Certified Solutions Architect – Associate
+- PCAP™ – Certified Associate Python Programmer
 
 ## 📈 Projects & Contributions
 
 Check out my GitHub repository for a collection of my cloud security projects and contributions:
 
-- **AWS Security Best Practices:** [GitHub Link](https://github.com/username/aws-security-best-practices)
-- **Terraform AWS Security Modules:** [GitHub Link](https://github.com/username/terraform-aws-security-modules)
-- **CI/CD Security Pipelines:** [GitHub Link](https://github.com/username/ci-cd-security-pipelines)
+- **AWS Projects:** [GitHub Link]([https://github.com/username/aws-security-best-practices](https://github.com/Kenneth7117/AWS_Projects))
+- **Python Automations:** [GitHub Link]([https://github.com/username/terraform-aws-security-modules](https://github.com/Kenneth7117/Python))
+- **OWASP Web Goat:** [GitHub Link](https://github.com/username/ci-cd-security-pipelines)
 
 ## 🎯 Goals
 
-- Enhance my knowledge of AI-driven security solutions.
-- Contribute to open-source cloud security projects.
-- Share insights and learnings through blogs and community talks.
+- Enhance my knowledge on Cloud security solutions.
+- Implemet Automations using Python.
+- Engage in insights and learnings through blogs and community talks.
 
-## 📫 Let's Connect!
+## 📫 Let's Connect! (To be Updated!!!)
 
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
