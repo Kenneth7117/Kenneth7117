@@ -49,12 +49,11 @@ Check out my GitHub repository for a collection of my cloud security projects an
 - Implemet Automations using Python.
 - Engage in insights and learnings through blogs and community talks.
 
-## 📫 Let's Connect! (To be Updated!!!)
+## 📫 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
-- **GitHub:** [@YourGitHubUsername](https://github.com/yourusername)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Kenneth Wonder Mendis](https://www.linkedin.com/in/kenneth-wonder-mendis-2b0447239/)
+- **GitHub:** [Kenneth7117](https://github.com/yourusername)
+- **Email:** [kennethwondermendise@gmail.com](mailto:kennethwondermendise@gmail.com)
 
 ---
 
