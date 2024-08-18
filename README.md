@@ -41,8 +41,7 @@ Check out my GitHub repository for a collection of my cloud security projects an
 
 - **AWS Projects:** [GitHub Link](https://github.com/Kenneth7117/AWS_Projects)
 - **Python Automations:** [GitHub Link](https://github.com/Kenneth7117/Python)
-- **OWASP Web Goat:** [GitHub Link](https://github.com/username/ci-cd-security-pipelines)
-
+- **OWASP Web Goat:** (In progress)
 ## 🎯 Goals
 
 - Enhance my knowledge on Cloud security solutions.
@@ -52,7 +51,7 @@ Check out my GitHub repository for a collection of my cloud security projects an
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [Kenneth Wonder Mendis](https://www.linkedin.com/in/kenneth-wonder-mendis-2b0447239/)
-- **GitHub:** [Kenneth7117](https://github.com/yourusername)
+- **GitHub:** [Kenneth7117](https://github.com/Kenneth7117)
 - **Email:** [kennethwondermendise@gmail.com](mailto:kennethwondermendise@gmail.com)
 
 ---
