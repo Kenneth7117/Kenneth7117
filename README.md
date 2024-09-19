@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Security Engineer specializing in Cloud Security. With a deep understanding of AWS and a relentless drive to secure cloud environments, I aim to ensure that applications and data are protected against emerging threats.
+I'm a passionate Security Engineer learning towards specializing in Cloud Security. With a deep understanding of AWS and a relentless drive to secure cloud environments, I aim to ensure that applications and data are protected against emerging threats.
 
 ## 💼 Professional Background
 
