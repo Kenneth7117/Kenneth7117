@@ -11,13 +11,13 @@ I'm a passionate Security Engineer learning towards specializing in Cloud Securi
 ## 💼 Professional Background
 
 - **Role:** Security Engineer
-- **Specialization:** AWS Security, Cloud Infrastructure, DLP, Tanium, Qualys Vulnerability Management and Compliance
+- **Specialization:** AWS Security, Cloud Infrastructure, DLP, Tanium, Qualys Vulnerability Management, Kubernetes, Docker, DevSecOps
 - **Experience:** Over 4 years of experience in cybersecurity with a focus on cloud security, DLP solutions.
 
 ## 🔧 Skills & Expertise
 
 - **Cloud Platforms:** AWS
-- **Security Tools:** AWS Security Hub, GuardDuty, IAM, KMS, CloudTrail, Qualys, Proofpoint, Symantec DLP, Palo Alto Aperture, Microsoft Purview, Tanium.
+- **Security Tools:** AWS Security Hub, GuardDuty, Docker Scout, KMS, CloudTrail, Qualys, Proofpoint, Symantec DLP, Palo Alto Aperture, Microsoft Purview, Tanium.
 - **Programming Languages:** Python
 
 ## 🌱 What I'm Learning
