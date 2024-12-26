@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kenneth!
+# Hi there! 👋 Salutations to Kenneth's Github!
 
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange)
