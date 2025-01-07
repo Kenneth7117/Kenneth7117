@@ -55,5 +55,3 @@ Check out my GitHub repository for a collection of my cloud security projects an
 - **Email:** [kennethwondermendise@gmail.com](mailto:kennethwondermendise@gmail.com)
 
 ---
-
-*"Security is not a product, but a process."* – Bruce Schneier
