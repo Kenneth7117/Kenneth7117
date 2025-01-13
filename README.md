@@ -1,4 +1,4 @@
-# Hi there! Welcome to Kenneth's Github
+# Kenneth's Github
 
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange)
@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate Security Engineer learning towards specializing in Cloud Security. With a deep understanding of AWS and a relentless drive to secure cloud environments, I aim to ensure that applications and data are protected against emerging threats.
+Passionate Security Engineer whith an understanding of AWS, DevSecOps, InfraSecurity. Inqusitive to PenTesting
 
 ## 💼 Professional Background
 
 - **Role:** Security Engineer
-- **Specialization:** AWS Security, Cloud Infrastructure, DLP, Tanium, Qualys Vulnerability Management, Kubernetes, Docker, DevSecOps
+- **Specialization:** AWS Security, Cloud Infrastructure, DLP, Tanium, Kubernetes, Docker, DevSecOps
 - **Experience:** Over 4 years of experience in cybersecurity with a focus on cloud security, DLP solutions.
 
 ## 🔧 Skills & Expertise
@@ -42,13 +42,8 @@ Check out my GitHub repository for a collection of my cloud security projects an
 - **AWS Projects:** [GitHub Link](https://github.com/Kenneth7117/AWS_Projects)
 - **Python Automations:** [GitHub Link](https://github.com/Kenneth7117/Python)
 - **OWASP Web Goat:** (In progress)
-## 🎯 Goals
 
-- Enhance my knowledge on Cloud security solutions.
-- Implemet Automations using Python.
-- Engage in insights and learnings through blogs and community talks.
-
-## 📫 Let's Connect!
+## 📫 Connections
 
 - **LinkedIn:** [Kenneth Wonder Mendis](https://www.linkedin.com/in/kenneth-wonder-mendis-2b0447239/)
 - **GitHub:** [Kenneth7117](https://github.com/Kenneth7117)
