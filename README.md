@@ -1,6 +1,5 @@
 # Kenneth's Github
 
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github)
 
