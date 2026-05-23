@@ -11,7 +11,7 @@ Passionate Security Engineer whith an understanding of AWS, DevSecOps, InfraSecu
 
 - **Role:** Security Engineer
 - **Specialization:** AWS Security, Cloud Infrastructure, DLP, Tanium, Kubernetes, Docker, DevSecOps
-- **Experience:** Over 4 years of experience in cybersecurity with a focus on cloud security, DLP solutions.
+- **Experience:** Years of experience in cybersecurity with a focus on cloud security, DLP solutions.
 
 ## 🔧 Skills & Expertise
 
@@ -33,6 +33,7 @@ Currently diving deeper into:
 - AWS Certified Security – Specialty
 - AWS Certified Solutions Architect – Associate
 - PCAP™ – Certified Associate Python Programmer
+- TCO - Tanium Certified Operator
 
 ## 📈 Projects & Contributions
 
